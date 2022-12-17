@@ -6,6 +6,7 @@ public class Demo {
 		Demo.x1();
 	}
 
+	// This is test Method
 	void test2() {
 		System.out.println("non static 2");
 		Demo d = new Demo();
